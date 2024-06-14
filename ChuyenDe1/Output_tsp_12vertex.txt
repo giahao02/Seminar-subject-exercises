@@ -1,0 +1,2 @@
+Duong di ngan nhat: [0, 10, 6, 7, 9, 5, 11, 8, 2, 1, 4, 3]
+Chi phi : 177
